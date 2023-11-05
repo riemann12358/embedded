@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "limits.h": "c",
+        "stdint.h": "c",
+        "cstdint": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "string.h": "c"
+    }
+}
