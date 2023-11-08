@@ -1,3 +1,5 @@
 *.mp4
 *.xopp
-
+*.vscode*
+.ip*
+*.kdenlive
